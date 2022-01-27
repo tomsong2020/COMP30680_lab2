@@ -1,0 +1,3 @@
+[console_script]
+my-command = src.test:main
+
